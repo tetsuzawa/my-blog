@@ -16,7 +16,7 @@ publishDate: true
 
 header:
   caption: "育ててるサボテン"
-  image: "hero-cactus.jpg"
+  image: "cactus.jpg"
 ---
 
 前々から技術ブログを作りたいと思っていたのでhugoで作って見ました。
