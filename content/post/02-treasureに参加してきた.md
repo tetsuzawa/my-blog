@@ -29,10 +29,10 @@ Treasureは[株式会社VOYAGE GROUP](https://voyagegroup.com/)が実施して�
 
 VOYAGE GROUPのオフィス「SHIP」は寝転がれるスペースやバーを有しており非常におしゃれなのですが、今回は完全オンラインでの開催でした（めっちゃいきたかった...）。
 
-{{< figure library="true" src="AJITO_1.png" title="社内バー「AJITO」" width="50%" >}}
+{{< figure library="true" src="AJITO_1.png" title="社内バー「AJITO」" width="80%" >}}
 
 
-{{< figure library="true" src="BEACH.png" title="図書館「OASIS」と横になれるスペース「BEACH」" width="50%" >}}
+{{< figure library="true" src="BEACH.png" title="図書館「OASIS」と横になれるスペース「BEACH」" width="80%" >}}
 
 # 応募したきっかけ
 
@@ -72,7 +72,7 @@ VOYAGE GROUPのオフィス「SHIP」は寝転がれるスペースやバーを�
 
 > ちなみに初日の講義が始まる前にTreasure Tシャツとお菓子がたくさん送られて来ました。
 > お菓子ボックスに米と缶詰が入っているのは笑いました
-> {{< figure library="true" src="box_1.jpg" title="" width="60%">}}
+> {{< figure library="true" src="box_1.jpg" title="" width="80%">}}
 
 
 
@@ -155,7 +155,7 @@ RDBは後から構造を変えるのが容易ではないため、初期段階�
 
 先に結果を書くと、「SlimLine」というサービスを開発して見事グランプリを取ることができました！また、UI/UX賞・アイデア賞もいただくことができ、3冠でTreasureを終えることができました。
 
-{{< figure library="true" src="slimline.png" width="50%">}}
+{{< figure library="true" src="slimline.png" width="80%">}}
 
 チーム開発のパートでも学びはたくさんありましたが、その中でも特に響いたことを書きます。
 
@@ -178,13 +178,9 @@ MVP (Minimum Viable Product) 意識することは本当に大事です。最低
 
 これは、サービスを開発するときの分割方法を次のどちらにするかという話です。
 
-<a href="https://www.jpattonassociates.com/dont_know_what_i_want/">
-<img src="http://www.jpattonassociates.com/wp-content/uploads/2008/01/incrementing.jpg" alt="incremental" width="60%">
-</a>
+{{< figure library="true" src="incrementing.jpg" title="" width="80%">}}
 
-<a href="https://www.jpattonassociates.com/dont_know_what_i_want/">
-<img src="http://www.jpattonassociates.com/wp-content/uploads/2008/01/iterating.jpg" alt="iterative" width="60%">
-</a>
+{{< figure library="true" src="iterating.jpg" title="（出展：[Jeff Patton/Don’t Know What I Want, But I Know How to Get It](https://www.jpattonassociates.com/dont_know_what_i_want/)）" width="80%">}}
 
 前者の開発方法では、部品が全て揃わないとリリースできないというリスクがあります。さらに、つなぎ合わせの段階になって始めてうまく動かないということが起きたり、必要のない機能・必要なのに足りない機能が顕わになったりする可能性があります。
 
