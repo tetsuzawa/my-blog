@@ -19,14 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Online Summer Internship for Gophers 2020"
+  company = "メルカリ"
+  company_url = "https://about.mercari.com/"
+  # location = "Calornia"
+  date_start = "2020-08-31"
+  date_end = "2020-09-04"
+  description = """
+  Goの静的解析の周辺知識を学び、exampleのようにルールを記述したコードから静的解析用のAnalyzerを生成するツールを作成。[github.com/tetsuzawa/ruleanalyzer](https://github.com/tetsuzawa/ruleanalyzer)
+  """
+
+[[experience]]
   title = "Treasure （Web開発インターン）"
   company = "VOYAGE GROUP"
   company_url = "https://voyagegroup.com/"
   # location = "Calornia"
   date_start = "2020-08-17"
-  date_end = ""
+  date_end = "2020-08-28"
   description = """
-  Goを使用したインターンシップに参加中
+  Web開発の基礎を体系的に学び、チームで「SlimLine」というサービスを開発。主にバックエンドを担当した。9/28日の技育展に登壇し、制作物について発表予定。
   """
 
 [[experience]]
