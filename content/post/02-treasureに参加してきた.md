@@ -204,6 +204,6 @@ MVP (Minimum Viable Product) 意識することは本当に大事です。最低
 
 Web開発の基礎から濃厚なチーム開発まで経験でき、文字通り圧倒的な成長をすることができるので気になる方は絶対に応募した方がいいです。
 
-講師・サポーターを含めたTreasure参加者の交流や期間中にいただいた[#voyagebook](https://www.amazon.co.jp/dp/B08GSQ4BL3/ref=cm_sw_em_r_mt_dp_AziwFbTKJR496)についても触れたかったですが、長くなるのでここまでにします。
+講師・サポーターを含めたTreasure参加者の交流や期間中にいただいた[#voyagebook](https://techlog.voyagegroup.com/entry/engineers-in-voyage)についても触れたかったですが、長くなるのでここまでにします。
 
 9/26日にサポーターズ主催の[技育展](https://talent.supporterz.jp/geekten/2020/)で登壇し、SlimLineについて発表する予定なので見てくれると嬉しいです。
