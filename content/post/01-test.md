@@ -23,7 +23,7 @@ header:
 
 themeはどうしようか迷ったんですが、とりあえずランキングで1位になっていたacademicを使っています。
 
-テストがてらmarkdownの基本文法を試してみます。
+テストがてらMarkdownの基本文法を試してみます。
 
 # #見出し1
 ## ##見出し2
@@ -33,7 +33,7 @@ themeはどうしようか迷ったんですが、とりあえずランキング
 
 **強調**、~~打ち消し~~、<details><summary>折りたたみ</summary><div>
 
-Goのやつ
+Goのやつです。
 
 ```go
 package main
@@ -51,6 +51,7 @@ func main() {
 <br>
 
 
+<!-- textlint-disable -->
 \```go:hello_world/main.go
 
 package main
@@ -62,8 +63,9 @@ func main() {
 }
 
 \```
+<!-- textlint-enable -->
 
-こうすると
+こうすると次のようになります。
 
 
 ```go:hello_world/main.go
@@ -76,11 +78,10 @@ func main() {
 }
 ```
 
-こうなる。
 
-codeブロックはQiitaみたいにファイル名を表示することはできないみたいです。
+codeブロックはQiitaみたいにファイル名を表示させられないみたいです。
 
-hugoのacademicはsyntax highlightのテーマを変えられたり、カスタマイズ性が高いので面白いです。
+hugoのacademicはsyntax highlightのテーマを変えられたり、カスタマイズ性が高いのでおもしろいです。
 
-これから気になったことを書いていこうと思います。
+これから気になったことを書いていきます。
 

@@ -1,8 +1,13 @@
 {
-    "rules": {
-        "preset-ja-technical-writing": true,
-        "prh": {
-            "rulePaths" :["./.textlint/rules/prh.yml"]
-        }
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "preset-ja-technical-writing": true,
+    "prh": {
+      "rulePaths": [
+        "./.textlint/rules/prh.yml"
+      ]
     }
+  }
 }
