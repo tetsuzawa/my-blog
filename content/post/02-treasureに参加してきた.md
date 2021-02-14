@@ -1,5 +1,4 @@
 ---
-<!-- textlint-disable -->
 title: "VOYAGE GROUPのインターン、Treasureで最高の経験をしてきた"
 summary: "株式会社VOYAGE GROUPが主催しているTreasureに参加してきたので内容と感想を書きます"
 date: "2020-08-31"
@@ -19,7 +18,6 @@ publishDate: true
 header:
 #   caption: ""
   image: "treasure-hero.jpg"
-<!-- textlint-enable -->
 ---
 
 
