@@ -1,0 +1,26 @@
+{
+  "name": "my-blog",
+  "version": "0.1.0",
+  "description": "My tech blog",
+  "main": "index.js",
+  "scripts": {
+    "lint": "textlint content/post/*.md",
+    "lint:fix": "textlint --fix content/post/*.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetsuzawa/my-blog.git"
+  },
+  "keywords": [
+    "blog",
+    "tech"
+  ],
+  "author": "Tetsu Takizawa",
+  "license": "MIT",
+  "homepage": "https://tetsuzawa.com",
+  "devDependencies": {
+    "textlint": "^11.8.2",
+    "textlint-rule-preset-ja-technical-writing": "^4.0.1",
+    "textlint-rule-prh": "^5.3.0"
+  }
+}
