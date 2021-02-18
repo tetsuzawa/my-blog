@@ -110,7 +110,7 @@ hello credentials xxxxxxxxxxxxxxxxx
 
 <!-- textlint-disable -->
 
-{{< figure library="true" src="04/BEACH.png" title="図書館「OASIS」と横になれるスペース「BEACH」" width="80%" >}}
+{{< figure library="true" src="04/hex_editor.png" title="hello.txtの中身が見えている" width="90%" >}}
 
 
 <br>
