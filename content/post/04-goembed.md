@@ -1,7 +1,7 @@
 ---
 title: "go embedでバイナリにシークレットを埋め込んでいいの？"
 summary: "Go 1.16以降のシークレットの扱い方について実験してみました"
-date: "2020-09-29"
+date: "2021-02-19"
 auther: "admin"
 tag: ["Go", "Golang", "Go116"]
 category: ["tips"]
@@ -17,7 +17,7 @@ publishDate: true
 
 header:
   caption: "秋口の銀河庭園"
-  image: "04/garden.png"
+  image: "04/garden_compressed.png"
 ---
 
 # Go1.16 リリース 👏🏻
