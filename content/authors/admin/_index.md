@@ -21,9 +21,8 @@ superuser: true
 bio: 音のVRの研究をしながらWebの技術を勉強しています。
 
 interests:
-- Web dev
-- Virtual sound
-- IoT
+- Web Dev
+- VR Sound
 
 education:
   courses:
@@ -64,7 +63,7 @@ user_groups:
 - Visitors
 ---
 
-高専生。音のVRの研究しながらWebの技術を勉強しています。Goが好きで、Web APIやツールなどをよく作っています。
+音のVRの研究しながらWebの技術を勉強しています。
 
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

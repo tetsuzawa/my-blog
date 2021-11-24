@@ -1,6 +1,6 @@
 ---
-title: "2021-11-24"
-date: "2021-11-24"
+title: "2021-01-01"
+date: "2021-01-01"
 author: "admin"
 tag: ["daily report"]
 category: ["daily report"]
@@ -9,7 +9,7 @@ reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: true # Show author profile?
 comments: false  # Show comments?
-feature: false 
+feature: false
 lastmod: false
 publishDate: false
 ---
@@ -59,7 +59,7 @@ publishDate: false
 ### Keep
 
 - I was in no hurry to read the document.
-  - I feel like I have a better memory retention rate. 
+  - I feel like I have a better memory retention rate.
 - I could concentrate.
   - I think it was because I woke up early.
 
