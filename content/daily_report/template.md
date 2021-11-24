@@ -1,5 +1,5 @@
 ---
-title: "2021-01-01"
+title: "template"
 date: "2021-01-01"
 author: "admin"
 tag: ["daily report"]
