@@ -19,6 +19,28 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "内定者アルバイト"
+  company = "Zucks"
+  company_url = "https://voyagegroup.com/"
+  # location = "Calornia"
+  date_start = "2021-03-01"
+  date_end = ""
+  description = """
+  ソフトウェアエンジニア
+  """
+
+[[experience]]
+  title = "Sunrise"
+  company = "VOYAGE GROUP"
+  company_url = "https://voyagegroup.com/"
+  # location = "Calornia"
+  date_start = "2020-08-31"
+  date_end = "2020-09-04"
+  description = """
+  GoとAWSの環境でパフォーマンスチューニングを実施。
+  """
+
+[[experience]]
   title = "Online Summer Internship for Gophers 2020"
   company = "メルカリ"
   company_url = "https://about.mercari.com/"
@@ -30,14 +52,14 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Treasure （Web開発インターン）"
+  title = "Treasure"
   company = "VOYAGE GROUP"
   company_url = "https://voyagegroup.com/"
   # location = "Calornia"
   date_start = "2020-08-17"
   date_end = "2020-08-28"
   description = """
-  Web開発の基礎を体系的に学び、チームで「SlimLine」というサービスを開発。主にバックエンドを担当した。9/28日の技育展に登壇し、制作物について発表予定。
+  Web開発の基礎を体系的に学び、チームで「SlimLine」というサービスを開発。主にバックエンドを担当した。9/28日の技育展に登壇し、制作物について発表。
   """
 
 [[experience]]
@@ -52,7 +74,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "職場密着型インターン（研究開発系）"
+  title = "インターン（実務型）"
   company = "Sony R&Dセンター"
   company_url = "https://www.sony.co.jp/SonyInfo/technology/about/"
   # location = ""
@@ -74,7 +96,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "電気電子系のインターン（開発部門）"
+  title = "インターン（電気電子系・開発部門）"
   company = "イシダ"
   company_url = "https://www.ishida.co.jp/ww/jp/"
   date_start = "2018-09-11"
