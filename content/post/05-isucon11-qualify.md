@@ -20,9 +20,6 @@ header:
   image: "05/aoiike.jpg"
 ---
 
-{{ template "_internal/google_analytics.html" . }}
-
-
 [ISUCON11](https://isucon.net/)の予選に参加して敗退してきたので来年に向けて施策と所感を時系列でメモしていきます。
 
 チームメンバーはアラジン([@hiromi_fuk](https://twitter.com/hiromi_fuk))とたくりんとん([@takurinton](https://twitter.com/takurinton))。
