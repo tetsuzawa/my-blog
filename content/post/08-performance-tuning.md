@@ -1,6 +1,6 @@
 ---
-title: "パフォーマンスチューニングにおける3つのフェーズと方法論について"
-summary: "Problem Statement Method, USE Method, TSA Method"
+title: "パフォーマンスチューニングにおける3つのフェーズと方法論"
+summary: ""
 date: "2022-04-29"
 auther: "admin"
 tag: ["tech", "performance tuning"]
@@ -18,16 +18,14 @@ publishDate: true
 # header:
 #   caption: ""
 #   image: ""
+
 ---
 
 
-# パフォーマンスチューニングにおける3つのフェーズと方法論について
-
 たき([@tetsuzawa]([https://twitter.com/tetsuzawa](https://twitter.com/tetsuzawa) ))です。
 
-一年ほど前に業務でパフォーマンスチューニングに取り組む機会があり、サーバーの負荷の約50%減らすことに成功しました。今回はその過程で得られた知見をもとに、パフォーマンスチューニングにおける3つのフェーズと方法論について書いていきます。
+一年ほど前に内定者インターンの業務でパフォーマンスチューニングに取り組む機会があり、サーバーの負荷の約50%減らすことに成功しました。パフォーマンスチューニングに関して詳しく知りたければ基本的には[Brendan Greggさんのブログ](https://www.brendangregg.com/)を読むと良いと考えています。今回は先程のブログで紹介されていたいくつかの方法論と、自分が実際にやって大事だと感じた3つのフェーズについて書いていきます。
 
-特に方法論については概要からやり方まで詳しく書いたつもりなので是非読んでみてください。
 
 
 # パフォーマンスチューニングとは
@@ -77,7 +75,7 @@ Problem Statement Method は以下の質問に答えることで**何のため�
 6. What is the environment? Software, hardware, instance types? Versions? Configuration?
 
 以下は私の事例の回答です。
-1. Gravitonに移行したらResponse time・Throughputが40%悪化したから
+1. x86_64からaarch64 (Graviton) に移行したらResponse time・Throughputが40%悪化したから
 2. x86_64はaarch64 (Graviton)より速かった
 3. CPUのアーキテクチャ(x86_64 -> aarch64)
 4. はい
