@@ -17,14 +17,14 @@ publishDate: true
 
 # header:
 #   caption: ""
-#   image: ""
+#   image: "https://user-images.githubusercontent.com/38237246/140444531-499b2ea0-f324-46c2-844a-3b82cb8f696a.png"
 
 ---
 
 
 たき([@tetsuzawa]([https://twitter.com/tetsuzawa](https://twitter.com/tetsuzawa) ))です。
 
-一年ほど前に内定者インターンの業務でパフォーマンスチューニングに取り組む機会があり、サーバーの負荷の約50%減らすことに成功しました。パフォーマンスチューニングに関して詳しく知りたければ基本的には[Brendan Greggさんのブログ](https://www.brendangregg.com/)を読むと良いと考えています。今回は先程のブログで紹介されていたいくつかの方法論と、自分が実際にやって大事だと感じた3つのフェーズについて書いていきます。
+一年ほど前に内定者インターンの業務でパフォーマンスチューニングに取り組む機会があり、サーバーの負荷の約50%減らすことに成功しました。パフォーマンスチューニングを行うにあたっては[Brendan Greggさんのブログ](https://www.brendangregg.com/)を大いに参考にしてます。今回は先程のブログで紹介されていたいくつかの方法論と、自分が実際にやって大事だと感じた3つのフェーズについて書いていきます。
 
 
 
