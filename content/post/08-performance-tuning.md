@@ -15,9 +15,9 @@ feature: true
 lastmod: true
 publishDate: true
 
-header:
-  caption: ""
-  image: "https://user-images.githubusercontent.com/38237246/140444531-499b2ea0-f324-46c2-844a-3b82cb8f696a.png"
+# header:
+#   caption: ""
+#   image: "https://user-images.githubusercontent.com/38237246/140444531-499b2ea0-f324-46c2-844a-3b82cb8f696a.png"
 
 ---
 
