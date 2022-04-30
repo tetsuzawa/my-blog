@@ -309,7 +309,7 @@ wall-clockプロファイリングにはCPUプロファイリングに無いス�
 （蛇足ですが、on-CPUとoff-CPUの見分けをつきやすくした[Hot/Cold FlameGraph](https://www.brendangregg.com/FlameGraphs/hotcoldflamegraphs.html )を生成する[PR](https://github.com/jvm-profiling-tools/async-profiler/pull/485) をasync-profilerに出しています。ご興味のある方はダウンロードしてみてください。）
 
 
-# 改善フェーズ
+# 3.改善フェーズ
 
 最後に改善フェーズに移ります。
 
