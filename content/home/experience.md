@@ -19,12 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "ソフトウェアエンジニア"
+  company = "CARTA HOLDINGS / Zucks"
+  company_url = "https://cartaholdings.co.jp/"
+  # location = "Calornia"
+  date_start = "2022-04-01"
+  date_end = ""
+  description = """
+  ソフトウェアエンジニア
+  """
+
+[[experience]]
   title = "内定者アルバイト"
   company = "Zucks"
-  company_url = "https://voyagegroup.com/"
+  company_url = "https://cartaholdings.co.jp/"
   # location = "Calornia"
   date_start = "2021-03-01"
-  date_end = ""
+  date_end = "2022-03-31"
   description = """
   ソフトウェアエンジニア
   """

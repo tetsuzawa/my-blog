@@ -18,11 +18,12 @@ superuser: true
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 音のVRの研究をしながらWebの技術を勉強しています。
+bio: 都内でソフトウェアエンジニアをしてます。
 
 interests:
-- Web Dev
-- VR Sound
+- Performance tuning
+- Data engineering
+- System design
 
 education:
   courses:
@@ -31,7 +32,7 @@ education:
     year: 2015
   - course: 苫小牧工業高等専門学校 専攻科 電子・生産システム工学専攻
     # institution: Massachusetts Institute of Technology
-    year: 2020~
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "tetsu.takizawa5@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -63,7 +64,7 @@ user_groups:
 - Visitors
 ---
 
-音のVRの研究しながらWebの技術を勉強しています。
+都内でソフトウェアエンジニアをしてます。
 
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
