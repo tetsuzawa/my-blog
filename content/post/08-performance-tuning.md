@@ -17,10 +17,10 @@ publishDate: true
 
 header:
   caption: ""
-  image: "08/instances.png"
-
+#   image: "08/instances.png"
 ---
 
+{{< figure library="true" src="https://user-images.githubusercontent.com/38237246/140444861-f9133652-dc5c-4fb1-bec1-0cbb38563ed9.png" title="" width="60%">}}
 
 たき([@tetsuzawa]([https://twitter.com/tetsuzawa](https://twitter.com/tetsuzawa) ))です。
 
