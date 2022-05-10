@@ -20,7 +20,7 @@ header:
 #   image: "08/instances.png"
 ---
 
-{{< figure library="true" src="https://user-images.githubusercontent.com/38237246/140444861-f9133652-dc5c-4fb1-bec1-0cbb38563ed9.png" title="" width="60%">}}
+{{< figure library="true" src="08/instances.png" title="" width="80%">}}
 
 たき([@tetsuzawa]([https://twitter.com/tetsuzawa](https://twitter.com/tetsuzawa) ))です。
 
