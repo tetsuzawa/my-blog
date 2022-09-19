@@ -14,11 +14,9 @@ toc: true # Show table of contents? true/false
 feature: true
 lastmod: true
 publishDate: true
-
-header:
-  caption: ""
-   image: "09/dstat.png"
 ---
+
+{{< figure library="true" src="09/dstat.png" title="" width="80%">}}
 
 > ※ 「ISUCON」は、LINE株式会社の商標または登録商標です。
 
