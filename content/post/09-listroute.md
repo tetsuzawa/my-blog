@@ -16,7 +16,7 @@ lastmod: true
 publishDate: true
 ---
 
-{{< figure library="true" src="09/dstat.png" title="" width="80%">}}
+{{< figure library="true" src="09/isucon12.png" title="" width="80%">}}
 
 > ※ 「ISUCON」は、LINE株式会社の商標または登録商標です。
 
